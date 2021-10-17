@@ -1,0 +1,19 @@
+.newtask1{
+    width: 100%;
+    height: auto;
+}
+
+.newtask2{
+    background-color: bisque;    
+    padding: 7px 12px;   
+}
+
+.items{
+    display: flex;
+    list-style: none; 
+    gap: 20px 50px;
+}
+
+.setting-div{
+    height:auto
+}

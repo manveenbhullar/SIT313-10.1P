@@ -1,0 +1,10 @@
+.myDiv1{
+    height: auto;
+    width: 100%;
+}
+
+.myDiv2{
+    display: flex;
+    gap: 50px;
+    padding: 20px 50px;   
+}
